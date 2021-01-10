@@ -1,0 +1,11 @@
+{
+  "name": "estudo-rest-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eduardonk9999/estudo-rest-api.git",
+  "author": "eduardonk9999 <thiago.novak7@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
